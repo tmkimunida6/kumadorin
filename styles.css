@@ -63,12 +63,12 @@ a:focus {
 }
 
 .main {
-  max-width: 850px;
+  max-width: 900px;
   margin: 120px auto 0;
 }
 @media screen and (max-width: 898px) {
   .main {
-    padding: 0 24px;
+    padding: 0 32px;
     margin-top: 64px;
   }
 }
@@ -78,10 +78,10 @@ a:focus {
   text-align: center;
 }
 .concept-text {
-  font-size: 20px;
+  font-size: 28px;
   text-align: center;
-  line-height: 2;
-  font-weight: bold;
+  line-height: 2.2;
+  font-weight: 600;
   display: inline-block;
   margin-bottom: 48px;
 }
@@ -133,7 +133,7 @@ a:focus {
   margin: 0 auto;
 }
 .hero-image-kumadorin {
-  max-width: 35cqi;
+  max-width: 50cqi;
   margin: 0 auto;
 }
 @media screen and (max-width: 600px) {
@@ -200,7 +200,7 @@ a:focus {
     font-size: 24px;
   }
   .hero-speech-bubble-text {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 
@@ -257,20 +257,20 @@ a:focus {
   margin-bottom: 64px;
 }
 .about-inner {
-  width: 850px;
+  width: 900px;
   margin: 0 auto;
 }
 .about-title {
   margin-bottom: 40px;
 }
 .about-text {
-  line-height: 2;
-  font-size: 22px;
+  line-height: 2.2;
+  font-size: 24px;
 }
 @media screen and (max-width: 898px) {
   .about-bg-pink {
-    margin-left: -24px;
-    margin-right: -24px;
+    margin-left: -32px;
+    margin-right: -32px;
     padding: 40px 0;
     margin-bottom: 40px;
   }
@@ -282,7 +282,7 @@ a:focus {
     margin-bottom: 24px;
   }
   .about-text {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 
@@ -332,7 +332,7 @@ a:focus {
   color: #fff;
 }
 .about-list-item-text {
-  font-size: 20px;
+  font-size: 22px;
   letter-spacing: 0.05em;
   padding: 40px;
 }
@@ -455,7 +455,7 @@ footer {
   font-weight: 400;
 }
 .footer-text {
-  font-size: 16px;
+  font-size: 14px;
   margin-bottom: 16px;
 }
 .footer-copyright {
